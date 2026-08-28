@@ -1,27 +1,91 @@
-### Hi there 👋, my name is Hasan ahmadi
-#### Web Developer and Al/machine learning
-![Web Developer and Al/machine learning](https://media.licdn.com/dms/image/D5612AQGuIxQsPyOxqg/article-cover_image-shrink_720_1280/0/1716067480649?e=2147483647&v=beta&t=e6SGCLXajUw7gxCGbgNk08wA2y8qLhylWFwTHCTMUwo)
+# Hi there 👋 I'm Hasan Ahmadi
 
-I am a web developer and also work on machine learning and deep learning projects. My expertise includes building web applications as well as designing and implementing AI models for various purposes.
+### Full-Stack Developer | AI/Machine Learning Engineer | Python Specialist
 
-Skills: Python / Django / linux 
+<img src="./docs/image_1.jpg" width="500" border-radius="50%">
+<img src="./docs/image_2.webp" width="375" border-radius="50%">
+<img src="./docs/image_3.jpeg" width="500" border-radius="50%">
 
-- 🔭 I’m currently working on deep learning project 
-- 🌱 I’m currently learning machine learning 
-- 👯 I’m looking to collaborate on web development project 
-- 🤔 I’m looking for help with deep learn project 
-- 💬 Ask me about python programing  
+---
+
+## 👨‍💻 About Me
+
+### Hi, I'm Hasan Ahmadi!
+An enthusiastic programmer with a deep interest in **Python**, **Linux environments**, and the fields of **Machine Learning & Deep Learning**.
+
+### 🔹 My Approac
+I believe the best way to learn is by doing. My learning philosophy is centered around "learning by building"—focusing on developing small, practical, and hands-on projects to gain a deep, fundamental understanding of complex concepts.
+
+### 🔹 Interests & Goals
+Beyon exploring AI algorithms, I am passionate about practicing **Clean Code** principles, leveraging **Open Source** tools, and mastering **Bash/Terminal scripting**. My ultimate goal is to become a developer capable of solving real-world problems with reliable code and meaningful data insights.
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hasanahmadii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://github.com/www.linkedin.com/in/hasanahmadii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://zil.ink/hassanahmadi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Ahmadi7813)  
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+## 🛠️ Technical Skills
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hasanahmadii)](https://github.com/ryo-ma/github-profile-trophy)
+- **Languages:** Python, JavaScript, c++, 
+- **Web Development:** Django, REST APIs
+- **Machine Learning:** Deep Learning, TensorFlow, PyTorch
+- **Tools & Systems:** Linux, Git, Docker
+- **Databases:** SQL, NoSQL
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanahmadii)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanahmadii&show_icons=true&count_private=true)  
+## 🚀 Current Focus
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=hasanahmadii)  
+- 🔭 **Working on:** Deep Learning projects and AI model optimization
+- 🌱 **Learning:** Advanced Machine Learning techniques and Neural Networks
+- 👯 **Open to:** Collaborating on web development and AI/ML projects
+- 🤔 **Seeking Help With:** Deep Learning optimization strategies
+- 💬 **Ask Me About:** Python programming, web development, and machine learning
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/hasanahmadii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hasanahmadii)
+[![Website](https://img.shields.io/badge/Website-FF6B00?style=for-the-badge&logo=internet-explorer)](https://zil.ink/hassanahmadi)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram)](https://t.me/Ahmadi7813)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hasanahmadii&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanahmadii&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasanahmadii&show_icons=true&count_private=true&theme=radical)
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=hasanahmadii&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+**Let's build something amazing together! 🚀**
+
+</div>
 
