@@ -2,9 +2,9 @@
 
 ### Full-Stack Developer | AI/Machine Learning Engineer | Python Specialist
 
-<img src="./docs/image_1.jpg" width="500" border-radius="50%">
-<img src="./docs/image_2.webp" width="375" border-radius="50%">
-<img src="./docs/image_3.jpeg" width="500" border-radius="50%">
+<div style="text-align: center;">
+  <img src="./docs/image_1.jpg" width="700">
+</div>
 
 ---
 
@@ -59,25 +59,14 @@ Beyon exploring AI algorithms, I am passionate about practicing **Clean Code** p
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hasanahmadii&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Profile](https://img.shields.io/badge/View%20GitHub%20Profile-181717?logo=github&logoColor=white)](https://github.com/hasanahmadii)
 
 </div>
 
-<div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanahmadii&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasanahmadii&show_icons=true&count_private=true&theme=radical)
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=hasanahmadii&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hasanahmadii&theme=radical)](https://github.com/hasanahmadii)
 
 </div>
 
@@ -88,4 +77,3 @@ Beyon exploring AI algorithms, I am passionate about practicing **Clean Code** p
 **Let's build something amazing together! 🚀**
 
 </div>
-
